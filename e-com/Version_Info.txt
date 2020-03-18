@@ -16,9 +16,11 @@
 v0 Respo Created: Respo created, E-com Site using React
                     Skill share tut: Become a React Developer: Zero to Mastery
 
---v1 Basic Template : Template for e-com site/ implemented sccs, will need to improve training for that. Its basically css
+v1 Basic Template : Template for e-com site/ implemented sccs, will need to improve training for that. Its basically css
                         but allows you to connect various info together for better organization.
 
                         What happen:
                         * npm install node-sass
 
+
+--v2 Image Implement: included images/ changes to react, when hovered image will 'grow' but will not overflow the site.
