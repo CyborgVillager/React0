@@ -29,4 +29,6 @@ v3 Page Setup: updated menu category to navigate using with router. Quick templa
 
 v4 Shop page/pads: revised the site w/ a shop page/includes images,title for the post, and price
 
---v5 SVG Header: svg img to reach home page, nav bar links/modified app.css for <a> color clicked
+v5 SVG Header: svg img to reach home page, nav bar links/modified app.css for <a> color clicked
+
+--v6 Basic Sign in: basic sign in w/sccs.
