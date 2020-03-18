@@ -25,4 +25,6 @@ v1 Basic Template : Template for e-com site/ implemented sccs, will need to impr
 
 v2 Image Implement: included images/ changes to react, when hovered image will 'grow' but will not overflow the site.
 
---v3 Page Setup: updated menu category to navigate using with router. Quick template on using it.
+v3 Page Setup: updated menu category to navigate using with router. Quick template on using it.
+
+--v4 Shop page/pads: revised the site w/ a shop page/includes images,title for the post, and price
